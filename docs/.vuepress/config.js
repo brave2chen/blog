@@ -1,7 +1,7 @@
 module.exports = {
   "title": "码到功成",
   "description": "",
-  "dest": "public",
+  "dest": "dist",
   "head": [
     [
       "link",
