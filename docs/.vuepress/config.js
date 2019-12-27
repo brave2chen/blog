@@ -2,7 +2,7 @@ module.exports = {
   "title": "码到功成",
   "description": "",
   "dest": "build",
-  "base": "/blog",
+  "base": "/blog/",
   "head": [
     [
       "link",
