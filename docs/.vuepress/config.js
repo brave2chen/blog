@@ -1,6 +1,6 @@
 module.exports = {
   "title": "码到功成",
-  "description": "",
+  "description": " ",
   "dest": "build",
   "base": "/blog/",
   "head": [

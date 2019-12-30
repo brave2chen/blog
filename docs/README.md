@@ -1,5 +1,6 @@
 ---
 home: true
+isShowTitleInHome: false
 heroImage: /hero.png
 heroImageStyle: {
   maxWidth: '600px',
@@ -14,5 +15,4 @@ heroImageStyle: {
 #   height: '350px'
 # }
 faceImage: 'head.gif'
-isShowTitleInHome: true
 ---
