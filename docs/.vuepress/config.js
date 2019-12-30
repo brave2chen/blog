@@ -68,7 +68,7 @@ module.exports = {
     "lastUpdated": "Last Updated",
     "author": "brave2chen",
     "record": "备案编号",
-    "startYear": "2019"
+    "startYear": "2018"
   },
   "markdown": {
     "lineNumbers": true
