@@ -1,5 +1,5 @@
 module.exports = {
-  "title": "码到功成",
+  "title": "码致·功成",
   "description": " ",
   "dest": "build",
   "base": "/blog/",
