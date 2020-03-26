@@ -1,5 +1,5 @@
 {
-  "name": "brave2chen.github.i.blog",
+  "name": "brave2chen.github.io",
   "version": "1.0.0",
   "author": "brave2chen",
   "scripts": {
@@ -8,7 +8,9 @@
   },
   "devDependencies": {
     "vuepress": "1.2.0",
-    "vuepress-theme-reco": "1.1.1"
+    "vuepress-theme-reco": "1.1.1",
+    "acorn": "^6.4.1",
+    "minimist": "^1.2.2"
   },
-  "description": "brave2chen.github.io blog"
+  "description": "brave2chen.github.io"
 }
