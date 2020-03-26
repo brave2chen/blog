@@ -1,1 +1,2 @@
-Blog by vuepress-theme-reco
+个人博客，基于 *vuepress-theme-reco* 搭建
+
